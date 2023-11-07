@@ -1,10 +1,9 @@
 # AppAula4Fotos
 
-Aula1Calculadora
-Sobre o projeto
-Aplicativo de troca de fotos.
 
-Layout mobile:
+Sobre o projeto:
+
+Aplicativo de troca de fotos.
 
 
 
